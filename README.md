@@ -55,21 +55,6 @@ Prerequisites
 pip install -r requirements.txt
 
 
-How to Run
-
-1. Clone the repository:
-
-git clone https://github.com/username/repository.git
-cd repository
-
-
-2. Run the Streamlit app:
-
-streamlit run app.py
-
-
-3. Open the app in your browser (usually http://localhost:8501).
-
 ---
 
 Model Performance
