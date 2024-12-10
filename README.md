@@ -1,13 +1,13 @@
 
 
-**Stroke Prediction App**
-
+#Stroke Prediction App
+##Description
 This project is a Machine Learning-based Stroke Prediction Application that allows users to input specific health-related parameters to predict the likelihood of a stroke. The application uses Streamlit for the user interface and integrates a pre-trained XGBoost model for predictions.
 
 
 ---
 
-Features
+##Features
 
 Predicts the likelihood of stroke based on user input.
 
@@ -21,7 +21,7 @@ Designed for early stroke risk assessment and awareness.
 
 ---
 
-Technologies Used
+##Technologies Used
 
 Machine Learning Models: XGBoost, Neural Networks, SVM, Decision Trees, etc.
 
@@ -43,7 +43,7 @@ Streamlit
 
 ---
 
-Getting Started
+##Getting Started
 
 Prerequisites
 
@@ -72,7 +72,7 @@ streamlit run app.py
 
 ---
 
-Model Performance
+##Model Performance
 
 The project employs multiple models with evaluation metrics to ensure high accuracy and reliability. Below is a summary of the performance for the best model:
 
@@ -87,7 +87,7 @@ https://drive.google.com/file/d/1jaXf8bmAzN5CakBqYCP_I5TUOMz3A0_Y/view?usp=drive
 
 ---
 
-Team
+##Team
 
 Team Name: Your Team Name Here
 
