@@ -57,9 +57,19 @@ pip install -r requirements.txt
 
 How to Run
 
-data link 
+1. Clone the repository:
 
-https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
+git clone https://github.com/username/repository.git
+cd repository
+
+
+2. Run the Streamlit app:
+
+streamlit run app.py
+
+
+3. Open the app in your browser (usually http://localhost:8501).
+
 ---
 
 Model Performance
